@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mazi-samuel
-- 👀 I’m interested in ... software development and machine learning
+- 👀 I’m interested in ... software engineering and machine learning
 - 🌱 I’m currently learning ... new programming languages
 - 💞️ I’m looking to collaborate on ... Python projects 
 - 📫 How to reach me ...mazizobo@gmail.com
